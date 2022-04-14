@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Faculty of science</string>
+    <string name="title">كلية العلوم جامعه عين شمس</string>
+    <string name="Events">events</string>
+    <string name="News">news</string>
+    <string name="GPA">GPA calculator</string>
+    <string name="Facebook">facebook</string>
+    <string name="Advertisement">adds</string>
+    <string name="FirstTitle">مرحبا بك في كلية العلوم</string>
+    <string name="Himessage">"التميز في الأداء لتحقيق الريادة في الأوساط الجامعية لتكون إحدى المنارات العلمية والبحثية للنهوض بالمجتمع. "</string>
+    <string name="Ro2ya">"التميز في الأداء لتحقيق الريادة في الأوساط الجامعية لتكون إحدى المنارات العلمية والبحثية للنهوض بالمجتمع. "</string>
+    <string name="suggestions">Suggestions</string>
+    <string name="gpa_website">https://gpa-calc.000webhostapp.com/index.html</string>
+</resources>
